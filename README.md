@@ -1,3 +1,3 @@
 # portfolio
 BUILD OF SITE DONE WITH HTMAL CSS-SASS JAVASCRIPT to see the code go to https://github.com/juan007/portfolioCode
-working site:  juanportfolio.nscctruro.ca
+working site:  https://juanportfolio.nscctruro.ca
